@@ -47,6 +47,14 @@ Common AWS S3 Use Cases
 ✅ IoT Data Storage – Capture and store IoT sensor data in S3 buckets.
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/708373d3-aad0-4104-aded-90cf2cf38dca" />
+
+Aws upload a file using command line
+
+brew install awscli  # macOS
+Configure AWS CLI
+aws configure
+aws s3 cp local-file.txt s3://your-bucket-name/
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/bfb07e32-b59b-4aa0-a362-5cfe1d22ae66" />
 Aws upload a file using command line
 
