@@ -65,8 +65,13 @@ aws configure
 aws s3 cp local-file.txt s3://your-bucket-name/
 ![image](https://github.com/user-attachments/assets/5c51f4a0-03dd-43e2-8ec1-30a11ec42089)
 
+
+
 WHAT IS IAM
-AWS Identity and Access Management (IAM) allows you to securely manage access to AWS services and resources. It helps in controlling who can do what in your AWS account.
+AWS Identity and Access Management (IAM) allows you to securely manage access to AWS services and resources.
+It helps in controlling who can do what in your AWS account.
+
+
 ![image](https://github.com/user-attachments/assets/5ea7cc3e-ae92-40f8-80e0-f3a9a70ea50c)
 
 Access keys (1)
