@@ -1,4 +1,5 @@
 What is AWS S3?
+
 Amazon Simple Storage Service (S3) is a scalable, highly durable, and secure object storage service designed for storing and retrieving any amount of data from anywhere. It is commonly used for backup, data storage, hosting static websites, and data archiving.
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/d052ec35-5919-45d1-9381-91b37e17f02c" />
@@ -63,4 +64,21 @@ Configure AWS CLI
 aws configure
 aws s3 cp local-file.txt s3://your-bucket-name/
 ![image](https://github.com/user-attachments/assets/5c51f4a0-03dd-43e2-8ec1-30a11ec42089)
+
+WHAT IS IAM
+AWS Identity and Access Management (IAM) allows you to securely manage access to AWS services and resources. It helps in controlling who can do what in your AWS account.
+![image](https://github.com/user-attachments/assets/5ea7cc3e-ae92-40f8-80e0-f3a9a70ea50c)
+
+Access keys (1)
+Create access key
+Use access keys to send programmatic calls to AWS from the AWS CLI, AWS Tools for PowerShell, AWS SDKs, or direct AWS API calls. You can have a maximum of two access keys (active or inactive) at a time.
+
+<img width="1467" alt="Screenshot 2025-02-17 at 6 40 24 PM" src="https://github.com/user-attachments/assets/b796dfab-d43c-490c-9e42-1dd2b0d1779d" />
+
+
+
+
+
+
+
 
