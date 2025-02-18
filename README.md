@@ -80,6 +80,23 @@ Use access keys to send programmatic calls to AWS from the AWS CLI, AWS Tools fo
 
 <img width="1467" alt="Screenshot 2025-02-17 at 6 40 24 PM" src="https://github.com/user-attachments/assets/b796dfab-d43c-490c-9e42-1dd2b0d1779d" />
 
+An instance profile is a container for an AWS Identity and Access Management (IAM) role that you can use to pass role information to an Amazon EC2 instance when the instance starts.
+
+you're referring to AWS Identity and Access Management (IAM), which is a service that helps you securely control access to AWS resources. You can use IAM to:
+
+Create and manage AWS users and groups: This allows you to control who can access AWS resources.
+Grant permissions to users: By creating IAM policies, you can grant fine-grained access control to specific AWS resources.
+Enable multi-factor authentication (MFA): Enhance security by requiring users to provide two forms of authentication.
+Use roles: Roles allow you to delegate access to users or services without sharing long-term credentials.
+If you're just getting started, some key concepts are:
+
+Users: Entities that represent a person or application that interacts with AWS resources.
+Groups: A collection of IAM users that are managed together, typically for applying common permissions.
+Roles: Temporary security credentials for users or services that need to assume a role to gain access to resources.
+Policies: JSON documents that define permissions. Policies can be attached to users, groups, or roles.
+Access Keys: Used for programmatic access to AWS services (CLI, SDKs, etc.)
+
+
 
 
 
