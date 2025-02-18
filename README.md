@@ -1,6 +1,8 @@
 What is AWS S3?
 Amazon Simple Storage Service (S3) is a scalable, highly durable, and secure object storage service designed for storing and retrieving any amount of data from anywhere. It is commonly used for backup, data storage, hosting static websites, and data archiving.
-![image](https://github.com/user-attachments/assets/80078601-a3f5-41e0-af8d-aa12f306c6ae)
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/d052ec35-5919-45d1-9381-91b37e17f02c" />
+
 What is AWS S3?
 Amazon Simple Storage Service (S3) is a scalable, highly durable, and secure object storage service designed for storing and retrieving any amount of data from anywhere. It is commonly used for backup, data storage, hosting static websites, and data archiving.
 
